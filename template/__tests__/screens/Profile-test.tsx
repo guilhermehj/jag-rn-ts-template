@@ -18,7 +18,7 @@ const navigationInitialState = {
   index: 1,
 };
 
-describe('Offer Details Screen', () => {
+describe('Profile Screen', () => {
   beforeEach(cleanup);
   it('should render all components', async () => {
     const { getByText } = render(
