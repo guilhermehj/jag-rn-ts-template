@@ -1,0 +1,29 @@
+{
+  "name": "jag-rn-ts-template",
+  "version": "0.0.1",
+  "description": "React Native TypeScript template.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermehj/jag-rn-ts-template.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Guilherme Henrique Jagnow <guilherme.hj@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermehj/jag-rn-ts-template/issues"
+  },
+  "homepage": "https://github.com/guilhermehj/jag-rn-ts-template#readme"
+}
