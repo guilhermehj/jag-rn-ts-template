@@ -18,7 +18,7 @@ const RootStack = () => {
         component={HomeScreen}
       />
       <Stack.Screen
-        name={'OfferDetails'}
+        name={'Profile'}
         component={ProfileScreen}
       />
     </Stack.Navigator>
